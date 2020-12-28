@@ -48,4 +48,13 @@ return array (
       '@yii/swiftmailer' => $vendorDir . '/yiisoft/yii2-swiftmailer/src',
     ),
   ),
+  'yangshihe/yii2-zui' => 
+  array (
+    'name' => 'yangshihe/yii2-zui',
+    'version' => '2.0.8.0',
+    'alias' => 
+    array (
+      '@yangshihe/zui' => $vendorDir . '/yangshihe/yii2-zui',
+    ),
+  ),
 );

@@ -1,0 +1,29 @@
+{
+    "name": "yangshihe/yii2-zui",
+    "description": "The ZUI extension for the Yii framework",
+    "keywords": ["yii2", "extension", "view", "theme", "plugin", "zui", "ZUI"],
+    "homepage": "https://github.com/yangshihe/yii2-zui",
+    "type": "yii2-extension",
+    "language": "php",
+    "license": "MIT",
+    "minimum-stability": "stable",
+	"support": {
+	    "source": "https://github.com/yangshihe/yii2-zui"
+	},
+    "authors": [
+        {
+            "name": "yangshihe",
+            "email": "yangshihe@qq.com",
+            "homepage": "https://github.com/yangshihe/yii2-zui"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yangshihe\\zui\\": ""
+        }
+    }
+}

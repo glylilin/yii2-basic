@@ -4693,6 +4693,62 @@
             "install-path": "../webmozart/assert"
         },
         {
+            "name": "yangshihe/yii2-zui",
+            "version": "2.0.8",
+            "version_normalized": "2.0.8.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yangshihe/yii2-zui.git",
+                "reference": "3ab6c939515cede61f527ecde433bb8d8db82ef9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yangshihe/yii2-zui/zipball/3ab6c939515cede61f527ecde433bb8d8db82ef9",
+                "reference": "3ab6c939515cede61f527ecde433bb8d8db82ef9",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.cloud.tencent.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "yiisoft/yii2": "~2.0.0"
+            },
+            "time": "2017-06-26T02:40:28+00:00",
+            "type": "yii2-extension",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "yangshihe\\zui\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "yangshihe",
+                    "email": "yangshihe@qq.com",
+                    "homepage": "https://github.com/yangshihe/yii2-zui"
+                }
+            ],
+            "description": "The ZUI extension for the Yii framework",
+            "homepage": "https://github.com/yangshihe/yii2-zui",
+            "keywords": [
+                "ZUI",
+                "extension",
+                "plugin",
+                "theme",
+                "view",
+                "yii2"
+            ],
+            "install-path": "../yangshihe/yii2-zui"
+        },
+        {
             "name": "yiisoft/yii2",
             "version": "2.0.40",
             "version_normalized": "2.0.40.0",
