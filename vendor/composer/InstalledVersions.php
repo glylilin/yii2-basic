@@ -29,11 +29,20 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'ffbac883b3ebf55b0292bf0a3444c31a3c837683',
+    'reference' => '373a0285b627b763c4c13f98e89b15f3dc5527f4',
     'name' => 'yiisoft/yii2-app-basic',
   ),
   'versions' => 
   array (
+    'aliyuncs/oss-sdk-php' => 
+    array (
+      'pretty_version' => 'v2.4.1',
+      'version' => '2.4.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '492866331b7bafaac09506cf42f351b7e9e63766',
+    ),
     'behat/gherkin' => 
     array (
       'pretty_version' => 'v4.6.2',
@@ -241,6 +250,24 @@ private static $installed = array (
       ),
       'reference' => '53330f47520498c0ae1f61f7e2c90f55690c06a3',
     ),
+    'imagine/imagine' => 
+    array (
+      'pretty_version' => '1.2.4',
+      'version' => '1.2.4.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'd2e18be6e930ca169e4f921ef73ebfc061bf55d8',
+    ),
+    'kucha/ueditor' => 
+    array (
+      'pretty_version' => '1.21',
+      'version' => '1.21.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '59e4ab2533bec1b182ce38241a1567e78d57a509',
+    ),
     'myclabs/deep-copy' => 
     array (
       'pretty_version' => '1.10.2',
@@ -419,6 +446,15 @@ private static $installed = array (
         0 => '1.0',
       ),
     ),
+    'qiniu/php-sdk' => 
+    array (
+      'pretty_version' => 'v7.3.0',
+      'version' => '7.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '0a461e13b09545b23df361843c6a65fdd3a26426',
+    ),
     'ralouphie/getallheaders' => 
     array (
       'pretty_version' => '3.0.3',
@@ -427,6 +463,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '120b605dfeb996808c31b6477290a714d356e822',
+    ),
+    'saviorlv/aliyun-dysms' => 
+    array (
+      'pretty_version' => '1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'a4f96694df7053937e1e75ab08e5b2b2c45e47e3',
     ),
     'sebastian/code-unit-reverse-lookup' => 
     array (
@@ -739,7 +784,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'ffbac883b3ebf55b0292bf0a3444c31a3c837683',
+      'reference' => '373a0285b627b763c4c13f98e89b15f3dc5527f4',
     ),
     'yiisoft/yii2-bootstrap' => 
     array (
@@ -785,6 +830,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'd879cb186361fbc6f71a2d994d580b5a071a5642',
+    ),
+    'yiisoft/yii2-imagine' => 
+    array (
+      'pretty_version' => '2.3.0',
+      'version' => '2.3.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'b103b1b1deb786d4d5fe955898ec866dbee5c1b4',
     ),
     'yiisoft/yii2-swiftmailer' => 
     array (

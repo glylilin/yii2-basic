@@ -18,7 +18,12 @@
         "yiisoft/yii2": "~2.0.14",
         "yiisoft/yii2-bootstrap": "~2.0.0",
         "yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
-        "yangshihe/yii2-zui": "^2.0"
+        "yangshihe/yii2-zui": "^2.0",
+        "kucha/ueditor": "*",
+        "qiniu/php-sdk": "^7.3",
+        "aliyuncs/oss-sdk-php": "^2.4",
+	"yiisoft/yii2-imagine":"^2.3",
+        "saviorlv/aliyun-dysms": "^1.0"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",
