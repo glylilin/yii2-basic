@@ -1,0 +1,21 @@
+{
+    "name": "yangshihe/yii2-fontawesome",
+    "description": "The fontawesome extension for the Yii framework",
+    "keywords": ["yii2", "fonts", "fontawesome"],
+    "homepage": "https://github.com/yangshihe/yii2-fontawesome",
+    "type": "yii2-extension",
+    "language": "php",
+    "license": "BSD 3-Clause",
+    "minimum-stability": "stable",
+    "support": {
+        "source": "https://github.com/yangshihe/yii2-fontawesome"
+    },
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yangshihe\\fontawesome\\": ""
+        }
+    }
+}

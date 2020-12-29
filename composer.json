@@ -23,7 +23,9 @@
         "qiniu/php-sdk": "^7.3",
         "aliyuncs/oss-sdk-php": "^2.4",
 	"yiisoft/yii2-imagine":"^2.3",
-        "saviorlv/aliyun-dysms": "^1.0"
+        "saviorlv/aliyun-dysms": "^1.0",
+        "yangshihe/yii2-emoji": "^1.0",
+        "yangshihe/yii2-fontawesome": "^4.7"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",

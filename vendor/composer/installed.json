@@ -4967,6 +4967,105 @@
             "install-path": "../webmozart/assert"
         },
         {
+            "name": "yangshihe/yii2-emoji",
+            "version": "1.0.2",
+            "version_normalized": "1.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yangshihe/yii2-emoji.git",
+                "reference": "36d9420ecb2084185001210ef45d9819d19a6907"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yangshihe/yii2-emoji/zipball/36d9420ecb2084185001210ef45d9819d19a6907",
+                "reference": "36d9420ecb2084185001210ef45d9819d19a6907",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "yiisoft/yii2": "*"
+            },
+            "time": "2017-01-16T08:51:01+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "yangshihe\\emoji\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "null"
+            ],
+            "authors": [
+                {
+                    "name": "yangshihe",
+                    "email": "yangshihe@qq.com"
+                }
+            ],
+            "description": "Yii2 emoji",
+            "support": {
+                "issues": "https://github.com/yangshihe/yii2-emoji/issues",
+                "source": "https://github.com/yangshihe/yii2-emoji/tree/master"
+            },
+            "install-path": "../yangshihe/yii2-emoji"
+        },
+        {
+            "name": "yangshihe/yii2-fontawesome",
+            "version": "4.7.0",
+            "version_normalized": "4.7.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yangshihe/yii2-fontawesome.git",
+                "reference": "f7e65a3816d1208896c86517f0f3a35fe1bffd92"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yangshihe/yii2-fontawesome/zipball/f7e65a3816d1208896c86517f0f3a35fe1bffd92",
+                "reference": "f7e65a3816d1208896c86517f0f3a35fe1bffd92",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "time": "2017-09-25T07:34:25+00:00",
+            "type": "yii2-extension",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "yangshihe\\fontawesome\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD 3-Clause"
+            ],
+            "description": "The fontawesome extension for the Yii framework",
+            "homepage": "https://github.com/yangshihe/yii2-fontawesome",
+            "keywords": [
+                "FontAwesome",
+                "fonts",
+                "yii2"
+            ],
+            "support": {
+                "issues": "https://github.com/yangshihe/yii2-fontawesome/issues",
+                "source": "https://github.com/yangshihe/yii2-fontawesome"
+            },
+            "install-path": "../yangshihe/yii2-fontawesome"
+        },
+        {
             "name": "yangshihe/yii2-zui",
             "version": "2.0.8",
             "version_normalized": "2.0.8.0",

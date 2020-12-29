@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b7fab1ad439274f30747f498e5e8da36",
+    "content-hash": "e7ff66df8ad2be40da68839807e13ef3",
     "packages": [
         {
             "name": "aliyuncs/oss-sdk-php",
@@ -1117,6 +1117,99 @@
                 }
             ],
             "time": "2020-10-23T14:02:19+00:00"
+        },
+        {
+            "name": "yangshihe/yii2-emoji",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yangshihe/yii2-emoji.git",
+                "reference": "36d9420ecb2084185001210ef45d9819d19a6907"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yangshihe/yii2-emoji/zipball/36d9420ecb2084185001210ef45d9819d19a6907",
+                "reference": "36d9420ecb2084185001210ef45d9819d19a6907",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "yiisoft/yii2": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "yangshihe\\emoji\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "null"
+            ],
+            "authors": [
+                {
+                    "name": "yangshihe",
+                    "email": "yangshihe@qq.com"
+                }
+            ],
+            "description": "Yii2 emoji",
+            "support": {
+                "issues": "https://github.com/yangshihe/yii2-emoji/issues",
+                "source": "https://github.com/yangshihe/yii2-emoji/tree/master"
+            },
+            "time": "2017-01-16T08:51:01+00:00"
+        },
+        {
+            "name": "yangshihe/yii2-fontawesome",
+            "version": "4.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yangshihe/yii2-fontawesome.git",
+                "reference": "f7e65a3816d1208896c86517f0f3a35fe1bffd92"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yangshihe/yii2-fontawesome/zipball/f7e65a3816d1208896c86517f0f3a35fe1bffd92",
+                "reference": "f7e65a3816d1208896c86517f0f3a35fe1bffd92",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "yii2-extension",
+            "autoload": {
+                "psr-4": {
+                    "yangshihe\\fontawesome\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD 3-Clause"
+            ],
+            "description": "The fontawesome extension for the Yii framework",
+            "homepage": "https://github.com/yangshihe/yii2-fontawesome",
+            "keywords": [
+                "FontAwesome",
+                "fonts",
+                "yii2"
+            ],
+            "support": {
+                "issues": "https://github.com/yangshihe/yii2-fontawesome/issues",
+                "source": "https://github.com/yangshihe/yii2-fontawesome"
+            },
+            "time": "2017-09-25T07:34:25+00:00"
         },
         {
             "name": "yangshihe/yii2-zui",

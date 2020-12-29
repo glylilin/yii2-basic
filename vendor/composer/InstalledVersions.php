@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '373a0285b627b763c4c13f98e89b15f3dc5527f4',
+    'reference' => 'f70271d34959326aee2ced112c5e810ddcf8a5dd',
     'name' => 'yiisoft/yii2-app-basic',
   ),
   'versions' => 
@@ -759,6 +759,24 @@ private static $installed = array (
       ),
       'reference' => 'bafc69caeb4d49c39fd0779086c03a3738cbb389',
     ),
+    'yangshihe/yii2-emoji' => 
+    array (
+      'pretty_version' => '1.0.2',
+      'version' => '1.0.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '36d9420ecb2084185001210ef45d9819d19a6907',
+    ),
+    'yangshihe/yii2-fontawesome' => 
+    array (
+      'pretty_version' => '4.7.0',
+      'version' => '4.7.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f7e65a3816d1208896c86517f0f3a35fe1bffd92',
+    ),
     'yangshihe/yii2-zui' => 
     array (
       'pretty_version' => '2.0.8',
@@ -784,7 +802,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '373a0285b627b763c4c13f98e89b15f3dc5527f4',
+      'reference' => 'f70271d34959326aee2ced112c5e810ddcf8a5dd',
     ),
     'yiisoft/yii2-bootstrap' => 
     array (

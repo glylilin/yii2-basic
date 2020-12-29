@@ -15,6 +15,8 @@ return array(
     'yii\\bootstrap\\' => array($vendorDir . '/yiisoft/yii2-bootstrap/src'),
     'yii\\' => array($vendorDir . '/yiisoft/yii2'),
     'yangshihe\\zui\\' => array($vendorDir . '/yangshihe/yii2-zui'),
+    'yangshihe\\fontawesome\\' => array($vendorDir . '/yangshihe/yii2-fontawesome'),
+    'yangshihe\\emoji\\' => array($vendorDir . '/yangshihe/yii2-emoji'),
     'saviorlv\\aliyun\\' => array($vendorDir . '/saviorlv/aliyun-dysms/src'),
     'phpDocumentor\\Reflection\\' => array($vendorDir . '/phpdocumentor/reflection-common/src', $vendorDir . '/phpdocumentor/reflection-docblock/src', $vendorDir . '/phpdocumentor/type-resolver/src'),
     'kucha\\ueditor\\' => array($vendorDir . '/kucha/ueditor'),

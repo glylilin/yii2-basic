@@ -37,6 +37,8 @@ class ComposerStaticInitbd8741a767266bd2cbfb2558f1ec2d02
             'yii\\bootstrap\\' => 14,
             'yii\\' => 4,
             'yangshihe\\zui\\' => 14,
+            'yangshihe\\fontawesome\\' => 22,
+            'yangshihe\\emoji\\' => 16,
         ),
         's' => 
         array (
@@ -159,6 +161,14 @@ class ComposerStaticInitbd8741a767266bd2cbfb2558f1ec2d02
         'yangshihe\\zui\\' => 
         array (
             0 => __DIR__ . '/..' . '/yangshihe/yii2-zui',
+        ),
+        'yangshihe\\fontawesome\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/yangshihe/yii2-fontawesome',
+        ),
+        'yangshihe\\emoji\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/yangshihe/yii2-emoji',
         ),
         'saviorlv\\aliyun\\' => 
         array (

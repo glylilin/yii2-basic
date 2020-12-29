@@ -66,4 +66,13 @@ return array (
       '@yii/imagine' => $vendorDir . '/yiisoft/yii2-imagine/src',
     ),
   ),
+  'yangshihe/yii2-fontawesome' => 
+  array (
+    'name' => 'yangshihe/yii2-fontawesome',
+    'version' => '4.7.0.0',
+    'alias' => 
+    array (
+      '@yangshihe/fontawesome' => $vendorDir . '/yangshihe/yii2-fontawesome',
+    ),
+  ),
 );
